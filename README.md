@@ -10,3 +10,5 @@ edit the 0,0 to ur correct
 
 create group dm witch can be found in ur create dm button 
 want to know how to get the coordinates. run the "coordfinder.py" program and move ur curser to the "create dm group" image
+
+btw click "q" to close the operation
