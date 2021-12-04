@@ -7,4 +7,4 @@ while c:
     pyautogui.click(358,381)
     pyautogui.click(867,546)
     pyautogui.click(862,586)
-    pyautogui.click(608,681) #edit this value to ur correct value
+    pyautogui.click(0,0) #edit this value to ur correct value
